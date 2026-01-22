@@ -1,0 +1,121 @@
+.navbar {
+  width: 100%;
+  background: #fff;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+/* TOP BAR */
+.navbar-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 40px;
+}
+
+.logo {
+  font-size: 32px;
+  font-weight: 800;
+}
+
+/* HOME SHOP ABOUT */
+.top-links {
+  display: flex;
+  gap: 28px;
+}
+
+.top-links a {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+  color: #0f0f0f;
+}
+
+.top-links a:hover {
+  text-decoration: underline;
+}
+
+/* ICONS */
+.nav-icons {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.icon {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+/* CART */
+.cart {
+  position: relative;
+}
+
+.cart-count {
+  position: absolute;
+  top: -6px;
+  right: -8px;
+  background: rgb(232, 100, 100);
+  color: white;
+  font-size: 12px;
+  padding: 2px 6px;
+  border-radius: 50%;
+}
+
+/* PROFILE */
+.profile {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+}
+
+/* BOTTOM BAR */
+.navbar-bottom {
+  background: #f2f2f2;
+  padding: 12px 40px;
+  display: flex;
+  gap: 24px;
+  font-size: 15px;
+}
+
+.navbar-bottom a {
+  text-decoration: none;
+  color: #0b0b0b;
+}
+
+.navbar-bottom a:hover {
+  text-decoration: underline;
+}
+
+.sale {
+  color: red;
+  font-weight: 600;
+}
+
+/* ========================= */
+/* ✅ ADDED FOR WISHLIST BADGE */
+/* ========================= */
+
+.icon-wrapper {
+  position: relative;
+  display: inline-block;
+  color: inherit;
+}
+
+.icon-wrapper .count {
+  position: absolute;
+  top: -6px;
+  right: -8px;
+  background: rgb(232, 100, 100);
+  color: white;
+  font-size: 12px;
+  padding: 2px 6px;
+  border-radius: 50%;
+}
+.search-input {
+  padding: 8px 12px;
+  margin-left: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}

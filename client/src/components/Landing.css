@@ -1,0 +1,136 @@
+/* HERO SECTION */
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 90px 120px;
+  background: linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%);
+  min-height: calc(100vh - 80px);
+  position: relative;
+  overflow: hidden;
+  color: #2c2c2c;
+}
+
+/* Floating pastel shapes */
+.hero::before {
+  content: '';
+  position: absolute;
+  width: 220px;
+  height: 220px;
+  background: rgba(255, 182, 193, 0.3);
+  border-radius: 50%;
+  top: -60px;
+  left: -60px;
+  animation: float 6s ease-in-out infinite alternate;
+}
+
+.hero::after {
+  content: '';
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  background: rgba(173, 216, 230, 0.3);
+  border-radius: 50%;
+  bottom: -100px;
+  right: -100px;
+  animation: float 8s ease-in-out infinite alternate-reverse;
+}
+
+@keyframes float {
+  from { transform: translateY(0); }
+  to { transform: translateY(30px); }
+}
+
+/* LEFT CONTENT */
+.hero-content {
+  max-width: 520px;
+  z-index: 1;
+}
+
+/* Badge */
+.badge {
+  background: #ffb3c6;
+  color: #4a4a4a;
+  padding: 8px 20px;
+  font-size: 14px;
+  font-weight: 600;
+  border-radius: 20px;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+/* Heading */
+.animated-heading {
+  font-size: 50px;
+  font-weight: 800;
+  line-height: 1.2;
+  margin-bottom: 20px;
+  animation: fadeInUp 1s ease forwards;
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.hero-content p {
+  font-size: 18px;
+  margin-bottom: 30px;
+  color: #444;
+}
+
+/* BUTTON */
+.shop-btn {
+  padding: 15px 38px;
+  background: #a6c1ee;
+  color: #2c2c2c;
+  border: none;
+  border-radius: 30px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 6px 20px rgba(166,193,238,0.6);
+}
+
+.shop-btn:hover {
+  transform: scale(1.08);
+  background: #ffdde1;
+}
+
+/* IMAGE SLIDER */
+.hero-image {
+  width: 520px;
+  height: 420px;
+  position: relative;
+}
+
+.hero-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 28px;
+  box-shadow: 0 25px 60px rgba(0,0,0,0.25);
+  animation: zoomFade 4s ease-in-out infinite;
+}
+
+@keyframes zoomFade {
+  0% { opacity: 0.9; transform: scale(1); }
+  50% { opacity: 1; transform: scale(1.05); }
+  100% { opacity: 0.9; transform: scale(1); }
+}
+
+/* RESPONSIVE */
+@media (max-width: 1024px) {
+  .hero {
+    flex-direction: column-reverse;
+    text-align: center;
+    padding: 60px 30px;
+  }
+
+  .hero-image {
+    width: 100%;
+    height: 350px;
+    margin-bottom: 40px;
+  }
+}
