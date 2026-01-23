@@ -1,47 +1,19 @@
-
 .App {
-  text-align: center;
-  font-family: Arial, sans-serif;
+  min-height: 100vh;
 }
 
-nav {
-  margin: 20px;
+.main-content {
+  padding: 2rem 1rem;
+  margin-top: 80px; /* Space for fixed navbar */
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-nav a {
-  margin: 0 10px;
-  text-decoration: none;
-  color: blue;
-}
-
-nav a:hover {
-  text-decoration: underline;
-}
-
-.form-container {
-  max-width: 300px;
-  margin: 50px auto;
-  padding: 20px;
-  border: 1px solid #ddd;
-  border-radius: 10px;
-}
-
-input {
-  width: 100%;
-  padding: 10px;
-  margin: 10px 0;
-  box-sizing: border-box;
-}
-
-button {
-  padding: 10px 20px;
-  background-color: blue;
-  color: white;
-  border: none;
-  cursor: pointer;
-  width: 100%;
-}
-
-button:hover {
-  background-color: darkblue;
+/* Responsive spacing */
+@media (max-width: 768px) {
+  .main-content {
+    margin-top: 70px;
+    padding: 1rem 0.5rem;
+  }
 }

@@ -5,7 +5,8 @@
         "start": "concurrently \"npm run start:server\" \"npm run start:client\"",
         "start:client": "cd client && npm start",
         "start:server": "cd server && npm run dev",
-        "install-all": "npm install && cd client && npm install && cd ../server && npm install"
+        "install-all": "npm install && cd client && npm install && cd ../server && npm install",
+        "seed": "cd server && node seed.js"
     },
     "devDependencies": {
         "concurrently": "^8.2.2"
