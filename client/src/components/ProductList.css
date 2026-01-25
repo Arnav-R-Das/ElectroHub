@@ -186,13 +186,10 @@
     .category-buttons {
       justify-content: center;
     }
-
-    .product-header {
-      padding-top: 4rem;
-    }
     
     .product-header h2 {
       font-size: 2rem;
+      padding-top: 3rem;
     }
     
     .product-grid {
