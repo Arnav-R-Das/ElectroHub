@@ -1,0 +1,30 @@
+###
+
+POST http://localhost:5000/routerTemplate
+Content-Type: application/json
+
+{
+    "var1": "Arnav",
+    "var2": "Das"
+}
+
+###
+
+GET http://localhost:5000/routerTemplate
+
+###
+
+GET http://localhost:5000/routerTemplate/697920c4cc0914b94d5d544a
+
+###
+
+PATCH http://localhost:5000/routerTemplate/697920c4cc0914b94d5d544a
+Content-Type: application/json
+
+{
+    "var1": "Rajarshi"
+}
+
+###
+
+DELETE http://localhost:5000/routerTemplate/697920c4cc0914b94d5d544a
