@@ -1,0 +1,1647 @@
+[
+  {
+    "name": "Samsung 14 Pro",
+    "brand": "Samsung",
+    "category": "Smartphones",
+    "price": 12390,
+    "rating": 4.6
+  },
+  {
+    "name": "Xiaomi 14 Plus",
+    "brand": "Xiaomi",
+    "category": "Smartphones",
+    "price": 149059,
+    "rating": 4.9
+  },
+  {
+    "name": "Apple 8 Pro",
+    "brand": "Apple",
+    "category": "Smartphones",
+    "price": 64999,
+    "rating": 4.6
+  },
+  {
+    "name": "Samsung S24 Ultra",
+    "brand": "Samsung",
+    "category": "Smartphones",
+    "price": 101574,
+    "rating": 4
+  },
+  {
+    "name": "Vivo 5 Plus",
+    "brand": "Vivo",
+    "category": "Smartphones",
+    "price": 73424,
+    "rating": 3.9
+  },
+  {
+    "name": "Google 7 SE",
+    "brand": "Google",
+    "category": "Smartphones",
+    "price": 107216,
+    "rating": 4.2
+  },
+  {
+    "name": "OnePlus X SE",
+    "brand": "OnePlus",
+    "category": "Smartphones",
+    "price": 13244,
+    "rating": 3.5
+  },
+  {
+    "name": "Apple 7 Lite",
+    "brand": "Apple",
+    "category": "Smartphones",
+    "price": 148588,
+    "rating": 4
+  },
+  {
+    "name": "Xiaomi 13 Lite",
+    "brand": "Xiaomi",
+    "category": "Smartphones",
+    "price": 23635,
+    "rating": 4.1
+  },
+  {
+    "name": "Nothing 6 Lite",
+    "brand": "Nothing",
+    "category": "Smartphones",
+    "price": 125029,
+    "rating": 3.8
+  },
+  {
+    "name": "Samsung 5 SE",
+    "brand": "Samsung",
+    "category": "Smartphones",
+    "price": 109653,
+    "rating": 4.8
+  },
+  {
+    "name": "Apple X SE",
+    "brand": "Apple",
+    "category": "Smartphones",
+    "price": 45766,
+    "rating": 5
+  },
+  {
+    "name": "Motorola X Ultra",
+    "brand": "Motorola",
+    "category": "Smartphones",
+    "price": 33383,
+    "rating": 4.4
+  },
+  {
+    "name": "Motorola X Plus",
+    "brand": "Motorola",
+    "category": "Smartphones",
+    "price": 28329,
+    "rating": 4.9
+  },
+  {
+    "name": "Nokia S24 Lite",
+    "brand": "Nokia",
+    "category": "Smartphones",
+    "price": 139186,
+    "rating": 3.7
+  },
+  {
+    "name": "Google 5 SE",
+    "brand": "Google",
+    "category": "Smartphones",
+    "price": 103990,
+    "rating": 4.3
+  },
+  {
+    "name": "Nokia S24 Plus",
+    "brand": "Nokia",
+    "category": "Smartphones",
+    "price": 34750,
+    "rating": 4
+  },
+  {
+    "name": "Motorola S23 Ultra",
+    "brand": "Motorola",
+    "category": "Smartphones",
+    "price": 28389,
+    "rating": 4.1
+  },
+  {
+    "name": "Realme 5 Plus",
+    "brand": "Realme",
+    "category": "Smartphones",
+    "price": 119658,
+    "rating": 3.9
+  },
+  {
+    "name": "Samsung 7 Plus",
+    "brand": "Samsung",
+    "category": "Smartphones",
+    "price": 45339,
+    "rating": 4
+  },
+  {
+    "name": "Motorola 6 SE",
+    "brand": "Motorola",
+    "category": "Smartphones",
+    "price": 55873,
+    "rating": 4.5
+  },
+  {
+    "name": "Vivo 15 Plus",
+    "brand": "Vivo",
+    "category": "Smartphones",
+    "price": 29900,
+    "rating": 4.3
+  },
+  {
+    "name": "Google 15 Pro",
+    "brand": "Google",
+    "category": "Smartphones",
+    "price": 14668,
+    "rating": 4.9
+  },
+  {
+    "name": "Samsung 13 Lite",
+    "brand": "Samsung",
+    "category": "Smartphones",
+    "price": 95236,
+    "rating": 4.6
+  },
+  {
+    "name": "Nokia 9 Lite",
+    "brand": "Nokia",
+    "category": "Smartphones",
+    "price": 46438,
+    "rating": 3.5
+  },
+  {
+    "name": "OnePlus 4 SE",
+    "brand": "OnePlus",
+    "category": "Smartphones",
+    "price": 128934,
+    "rating": 3.7
+  },
+  {
+    "name": "OnePlus 11 Ultra",
+    "brand": "OnePlus",
+    "category": "Smartphones",
+    "price": 94887,
+    "rating": 3.7
+  },
+  {
+    "name": "Oppo 13 SE",
+    "brand": "Oppo",
+    "category": "Smartphones",
+    "price": 102839,
+    "rating": 4.9
+  },
+  {
+    "name": "Nokia 9 Pro",
+    "brand": "Nokia",
+    "category": "Smartphones",
+    "price": 152141,
+    "rating": 3.8
+  },
+  {
+    "name": "OnePlus 6 Plus",
+    "brand": "OnePlus",
+    "category": "Smartphones",
+    "price": 21788,
+    "rating": 3.7
+  },
+  {
+    "name": "Nothing X Lite",
+    "brand": "Nothing",
+    "category": "Smartphones",
+    "price": 56618,
+    "rating": 3.8
+  },
+  {
+    "name": "Asus 5 SE",
+    "brand": "Asus",
+    "category": "Smartphones",
+    "price": 74508,
+    "rating": 4.7
+  },
+  {
+    "name": "Nothing 14 Ultra",
+    "brand": "Nothing",
+    "category": "Smartphones",
+    "price": 123899,
+    "rating": 4.3
+  },
+  {
+    "name": "OnePlus 11 Plus",
+    "brand": "OnePlus",
+    "category": "Smartphones",
+    "price": 86778,
+    "rating": 3.7
+  },
+  {
+    "name": "OnePlus 14 SE",
+    "brand": "OnePlus",
+    "category": "Smartphones",
+    "price": 37983,
+    "rating": 3.7
+  },
+  {
+    "name": "Realme S24 Ultra",
+    "brand": "Realme",
+    "category": "Smartphones",
+    "price": 137541,
+    "rating": 4.2
+  },
+  {
+    "name": "Vivo 15 Ultra",
+    "brand": "Vivo",
+    "category": "Smartphones",
+    "price": 98826,
+    "rating": 3.6
+  },
+  {
+    "name": "Nokia 3 Pro",
+    "brand": "Nokia",
+    "category": "Smartphones",
+    "price": 147868,
+    "rating": 4.5
+  },
+  {
+    "name": "Xiaomi 11 Lite",
+    "brand": "Xiaomi",
+    "category": "Smartphones",
+    "price": 54510,
+    "rating": 4.1
+  },
+  {
+    "name": "Nothing 11 Plus",
+    "brand": "Nothing",
+    "category": "Smartphones",
+    "price": 36328,
+    "rating": 4.6
+  },
+  {
+    "name": "LG Studio Pro",
+    "brand": "LG",
+    "category": "Laptops",
+    "price": 155094,
+    "rating": 4.4
+  },
+  {
+    "name": "Lenovo Surface Pro",
+    "brand": "Lenovo",
+    "category": "Laptops",
+    "price": 182636,
+    "rating": 4.9
+  },
+  {
+    "name": "HP Studio Ultrabook",
+    "brand": "HP",
+    "category": "Laptops",
+    "price": 111036,
+    "rating": 4
+  },
+  {
+    "name": "LG Pad 2-in-1",
+    "brand": "LG",
+    "category": "Laptops",
+    "price": 196137,
+    "rating": 4.8
+  },
+  {
+    "name": "Acer Book Gaming",
+    "brand": "Acer",
+    "category": "Laptops",
+    "price": 194613,
+    "rating": 4.2
+  },
+  {
+    "name": "Razer Pad Gaming",
+    "brand": "Razer",
+    "category": "Laptops",
+    "price": 74850,
+    "rating": 4.5
+  },
+  {
+    "name": "Razer MacBook Pro",
+    "brand": "Razer",
+    "category": "Laptops",
+    "price": 86030,
+    "rating": 4.7
+  },
+  {
+    "name": "Razer Yoga Gaming",
+    "brand": "Razer",
+    "category": "Laptops",
+    "price": 49273,
+    "rating": 4
+  },
+  {
+    "name": "Huawei Surface Gaming",
+    "brand": "Huawei",
+    "category": "Laptops",
+    "price": 146581,
+    "rating": 4.4
+  },
+  {
+    "name": "Samsung Surface Pro",
+    "brand": "Samsung",
+    "category": "Laptops",
+    "price": 28586,
+    "rating": 4.5
+  },
+  {
+    "name": "Razer Studio 2-in-1",
+    "brand": "Razer",
+    "category": "Laptops",
+    "price": 131931,
+    "rating": 4.9
+  },
+  {
+    "name": "Samsung ThinkPad 2-in-1",
+    "brand": "Samsung",
+    "category": "Laptops",
+    "price": 97652,
+    "rating": 4.1
+  },
+  {
+    "name": "Huawei Spectre 2-in-1",
+    "brand": "Huawei",
+    "category": "Laptops",
+    "price": 150183,
+    "rating": 4.1
+  },
+  {
+    "name": "Apple Surface Ultrabook",
+    "brand": "Apple",
+    "category": "Laptops",
+    "price": 101742,
+    "rating": 5
+  },
+  {
+    "name": "Huawei Spectre Ultrabook",
+    "brand": "Huawei",
+    "category": "Laptops",
+    "price": 107850,
+    "rating": 4.5
+  },
+  {
+    "name": "MSI Spectre 2-in-1",
+    "brand": "MSI",
+    "category": "Laptops",
+    "price": 101264,
+    "rating": 4.1
+  },
+  {
+    "name": "Asus Pad Creator",
+    "brand": "Asus",
+    "category": "Laptops",
+    "price": 198866,
+    "rating": 4.1
+  },
+  {
+    "name": "Dell Studio Pro",
+    "brand": "Dell",
+    "category": "Laptops",
+    "price": 33019,
+    "rating": 4.6
+  },
+  {
+    "name": "HP Surface Pro",
+    "brand": "HP",
+    "category": "Laptops",
+    "price": 45544,
+    "rating": 4.1
+  },
+  {
+    "name": "LG Yoga Gaming",
+    "brand": "LG",
+    "category": "Laptops",
+    "price": 72991,
+    "rating": 4.2
+  },
+  {
+    "name": "Lenovo MacBook Creator",
+    "brand": "Lenovo",
+    "category": "Laptops",
+    "price": 175197,
+    "rating": 4.8
+  },
+  {
+    "name": "LG Zenbook Pro",
+    "brand": "LG",
+    "category": "Laptops",
+    "price": 77080,
+    "rating": 4.5
+  },
+  {
+    "name": "Asus MacBook Gaming",
+    "brand": "Asus",
+    "category": "Laptops",
+    "price": 89126,
+    "rating": 4.7
+  },
+  {
+    "name": "Asus Surface Creator",
+    "brand": "Asus",
+    "category": "Laptops",
+    "price": 131219,
+    "rating": 4.3
+  },
+  {
+    "name": "Huawei Yoga Pro",
+    "brand": "Huawei",
+    "category": "Laptops",
+    "price": 118806,
+    "rating": 4.1
+  },
+  {
+    "name": "Lenovo Surface Creator",
+    "brand": "Lenovo",
+    "category": "Laptops",
+    "price": 149350,
+    "rating": 4.4
+  },
+  {
+    "name": "Samsung Spectre Creator",
+    "brand": "Samsung",
+    "category": "Laptops",
+    "price": 196063,
+    "rating": 4.4
+  },
+  {
+    "name": "Asus Pad Creator",
+    "brand": "Asus",
+    "category": "Laptops",
+    "price": 242809,
+    "rating": 4.6
+  },
+  {
+    "name": "Dell Studio 2-in-1",
+    "brand": "Dell",
+    "category": "Laptops",
+    "price": 205239,
+    "rating": 4.5
+  },
+  {
+    "name": "Microsoft Spectre Pro",
+    "brand": "Microsoft",
+    "category": "Laptops",
+    "price": 73690,
+    "rating": 4.8
+  },
+  {
+    "name": "Samsung Galaxy Tab Pro",
+    "brand": "Samsung",
+    "category": "Tablets",
+    "price": 58829,
+    "rating": 4.2
+  },
+  {
+    "name": "Samsung Pad Air",
+    "brand": "Samsung",
+    "category": "Tablets",
+    "price": 50655,
+    "rating": 4.6
+  },
+  {
+    "name": "Apple Mi Pad Air",
+    "brand": "Apple",
+    "category": "Tablets",
+    "price": 17454,
+    "rating": 4.7
+  },
+  {
+    "name": "Amazon Galaxy Tab Lite",
+    "brand": "Amazon",
+    "category": "Tablets",
+    "price": 95766,
+    "rating": 4.3
+  },
+  {
+    "name": "Apple Pad Air",
+    "brand": "Apple",
+    "category": "Tablets",
+    "price": 106144,
+    "rating": 4.4
+  },
+  {
+    "name": "Huawei Galaxy Tab Pad",
+    "brand": "Huawei",
+    "category": "Tablets",
+    "price": 105170,
+    "rating": 4.8
+  },
+  {
+    "name": "Samsung Tab Air",
+    "brand": "Samsung",
+    "category": "Tablets",
+    "price": 47825,
+    "rating": 4.2
+  },
+  {
+    "name": "Xiaomi Mi Pad Lite",
+    "brand": "Xiaomi",
+    "category": "Tablets",
+    "price": 85215,
+    "rating": 4.7
+  },
+  {
+    "name": "Samsung Mi Pad Pad",
+    "brand": "Samsung",
+    "category": "Tablets",
+    "price": 103626,
+    "rating": 4.3
+  },
+  {
+    "name": "Apple Tab Pad",
+    "brand": "Apple",
+    "category": "Tablets",
+    "price": 105229,
+    "rating": 4.6
+  },
+  {
+    "name": "Lenovo Pad Pad",
+    "brand": "Lenovo",
+    "category": "Tablets",
+    "price": 70218,
+    "rating": 4.4
+  },
+  {
+    "name": "Samsung iPad Air",
+    "brand": "Samsung",
+    "category": "Tablets",
+    "price": 33738,
+    "rating": 4.1
+  },
+  {
+    "name": "Realme Tab Pad",
+    "brand": "Realme",
+    "category": "Tablets",
+    "price": 67296,
+    "rating": 4.3
+  },
+  {
+    "name": "Huawei iPad Air",
+    "brand": "Huawei",
+    "category": "Tablets",
+    "price": 78230,
+    "rating": 4.8
+  },
+  {
+    "name": "Xiaomi Galaxy Tab Air",
+    "brand": "Xiaomi",
+    "category": "Tablets",
+    "price": 95768,
+    "rating": 5
+  },
+  {
+    "name": "Huawei Mi Pad Air",
+    "brand": "Huawei",
+    "category": "Tablets",
+    "price": 76231,
+    "rating": 4.4
+  },
+  {
+    "name": "Huawei iPad Pad",
+    "brand": "Huawei",
+    "category": "Tablets",
+    "price": 24831,
+    "rating": 4.6
+  },
+  {
+    "name": "Amazon iPad Pad",
+    "brand": "Amazon",
+    "category": "Tablets",
+    "price": 76276,
+    "rating": 4.4
+  },
+  {
+    "name": "Microsoft iPad Pro",
+    "brand": "Microsoft",
+    "category": "Tablets",
+    "price": 22033,
+    "rating": 4.8
+  },
+  {
+    "name": "Apple Pad Pad",
+    "brand": "Apple",
+    "category": "Tablets",
+    "price": 108805,
+    "rating": 4.1
+  },
+  {
+    "name": "JBL Studio Headphones",
+    "brand": "JBL",
+    "category": "Audio",
+    "price": 32325,
+    "rating": 4.2
+  },
+  {
+    "name": "Noise Quiet Speaker",
+    "brand": "Noise",
+    "category": "Audio",
+    "price": 5774,
+    "rating": 4.4
+  },
+  {
+    "name": "Sennheiser Pods Speaker",
+    "brand": "Sennheiser",
+    "category": "Audio",
+    "price": 27439,
+    "rating": 4.4
+  },
+  {
+    "name": "Sennheiser SoundLink Soundbar",
+    "brand": "Sennheiser",
+    "category": "Audio",
+    "price": 4445,
+    "rating": 4.7
+  },
+  {
+    "name": "Skullcandy QuietComfort Earbuds",
+    "brand": "Skullcandy",
+    "category": "Audio",
+    "price": 28639,
+    "rating": 4.8
+  },
+  {
+    "name": "Apple Studio Headphones",
+    "brand": "Apple",
+    "category": "Audio",
+    "price": 2277,
+    "rating": 4.3
+  },
+  {
+    "name": "Noise Free Earbuds",
+    "brand": "Noise",
+    "category": "Audio",
+    "price": 20929,
+    "rating": 4
+  },
+  {
+    "name": "Jabra Noise Speaker",
+    "brand": "Jabra",
+    "category": "Audio",
+    "price": 32612,
+    "rating": 4.4
+  },
+  {
+    "name": "Marshall Quiet Earbuds",
+    "brand": "Marshall",
+    "category": "Audio",
+    "price": 19565,
+    "rating": 4.4
+  },
+  {
+    "name": "Noise Free Speaker",
+    "brand": "Noise",
+    "category": "Audio",
+    "price": 25004,
+    "rating": 4.5
+  },
+  {
+    "name": "Jabra Quiet Earbuds",
+    "brand": "Jabra",
+    "category": "Audio",
+    "price": 14764,
+    "rating": 4.8
+  },
+  {
+    "name": "Boat Studio Speaker",
+    "brand": "Boat",
+    "category": "Audio",
+    "price": 2535,
+    "rating": 4.1
+  },
+  {
+    "name": "Jabra Noise Soundbar",
+    "brand": "Jabra",
+    "category": "Audio",
+    "price": 24097,
+    "rating": 4.5
+  },
+  {
+    "name": "JBL Buds Earbuds",
+    "brand": "JBL",
+    "category": "Audio",
+    "price": 9551,
+    "rating": 4.1
+  },
+  {
+    "name": "Jabra Pods Headphones",
+    "brand": "Jabra",
+    "category": "Audio",
+    "price": 19215,
+    "rating": 4.9
+  },
+  {
+    "name": "Sony Free Speaker",
+    "brand": "Sony",
+    "category": "Audio",
+    "price": 17765,
+    "rating": 4.7
+  },
+  {
+    "name": "OnePlus SoundLink Earbuds",
+    "brand": "OnePlus",
+    "category": "Audio",
+    "price": 26861,
+    "rating": 4
+  },
+  {
+    "name": "Sennheiser QuietComfort Speaker",
+    "brand": "Sennheiser",
+    "category": "Audio",
+    "price": 28155,
+    "rating": 5
+  },
+  {
+    "name": "Sony QuietComfort Headphones",
+    "brand": "Sony",
+    "category": "Audio",
+    "price": 21290,
+    "rating": 5
+  },
+  {
+    "name": "Sennheiser Quiet Earbuds",
+    "brand": "Sennheiser",
+    "category": "Audio",
+    "price": 12833,
+    "rating": 4.9
+  },
+  {
+    "name": "Marshall Noise Speaker",
+    "brand": "Marshall",
+    "category": "Audio",
+    "price": 6716,
+    "rating": 4.7
+  },
+  {
+    "name": "Sennheiser Free Earbuds",
+    "brand": "Sennheiser",
+    "category": "Audio",
+    "price": 13108,
+    "rating": 4.8
+  },
+  {
+    "name": "Bose QuietComfort Earbuds",
+    "brand": "Bose",
+    "category": "Audio",
+    "price": 28945,
+    "rating": 4.1
+  },
+  {
+    "name": "Apple Quiet Earbuds",
+    "brand": "Apple",
+    "category": "Audio",
+    "price": 31524,
+    "rating": 4.4
+  },
+  {
+    "name": "Sony Free Headphones",
+    "brand": "Sony",
+    "category": "Audio",
+    "price": 9081,
+    "rating": 4.6
+  },
+  {
+    "name": "Amazfit Band Smart Ring",
+    "brand": "Amazfit",
+    "category": "Wearables",
+    "price": 36310,
+    "rating": 4.2
+  },
+  {
+    "name": "Amazfit Band Band",
+    "brand": "Amazfit",
+    "category": "Wearables",
+    "price": 23505,
+    "rating": 4.2
+  },
+  {
+    "name": "OnePlus Sense Smart Ring",
+    "brand": "OnePlus",
+    "category": "Wearables",
+    "price": 25536,
+    "rating": 5
+  },
+  {
+    "name": "Samsung Watch Smart Ring",
+    "brand": "Samsung",
+    "category": "Wearables",
+    "price": 42861,
+    "rating": 4.2
+  },
+  {
+    "name": "Garmin Active Watch",
+    "brand": "Garmin",
+    "category": "Wearables",
+    "price": 42418,
+    "rating": 4
+  },
+  {
+    "name": "Apple Versa Watch",
+    "brand": "Apple",
+    "category": "Wearables",
+    "price": 38082,
+    "rating": 4.7
+  },
+  {
+    "name": "Apple Active Band",
+    "brand": "Apple",
+    "category": "Wearables",
+    "price": 24244,
+    "rating": 4.9
+  },
+  {
+    "name": "Boat Versa Watch",
+    "brand": "Boat",
+    "category": "Wearables",
+    "price": 43258,
+    "rating": 4.6
+  },
+  {
+    "name": "Realme Active Band",
+    "brand": "Realme",
+    "category": "Wearables",
+    "price": 17320,
+    "rating": 4.3
+  },
+  {
+    "name": "Garmin Active Smart Ring",
+    "brand": "Garmin",
+    "category": "Wearables",
+    "price": 35525,
+    "rating": 4.4
+  },
+  {
+    "name": "Fossil Charge Band",
+    "brand": "Fossil",
+    "category": "Wearables",
+    "price": 6400,
+    "rating": 5
+  },
+  {
+    "name": "Amazfit Charge Smart Ring",
+    "brand": "Amazfit",
+    "category": "Wearables",
+    "price": 39056,
+    "rating": 4.9
+  },
+  {
+    "name": "Apple Watch Watch",
+    "brand": "Apple",
+    "category": "Wearables",
+    "price": 10771,
+    "rating": 4.3
+  },
+  {
+    "name": "Apple Band Watch",
+    "brand": "Apple",
+    "category": "Wearables",
+    "price": 21648,
+    "rating": 4.7
+  },
+  {
+    "name": "Samsung Sense Smart Ring",
+    "brand": "Samsung",
+    "category": "Wearables",
+    "price": 17975,
+    "rating": 4.7
+  },
+  {
+    "name": "Amazfit Active Watch",
+    "brand": "Amazfit",
+    "category": "Wearables",
+    "price": 21342,
+    "rating": 4.4
+  },
+  {
+    "name": "Withings Active Watch",
+    "brand": "Withings",
+    "category": "Wearables",
+    "price": 8178,
+    "rating": 4.9
+  },
+  {
+    "name": "Boat Sense Watch",
+    "brand": "Boat",
+    "category": "Wearables",
+    "price": 21014,
+    "rating": 4.8
+  },
+  {
+    "name": "Garmin Band Smart Ring",
+    "brand": "Garmin",
+    "category": "Wearables",
+    "price": 43272,
+    "rating": 4.8
+  },
+  {
+    "name": "Withings Watch Watch",
+    "brand": "Withings",
+    "category": "Wearables",
+    "price": 42291,
+    "rating": 4.3
+  },
+  {
+    "name": "Realme 61-inch 4K Android TV",
+    "brand": "Realme",
+    "category": "TVs & Monitors",
+    "price": 22077,
+    "rating": 4.9
+  },
+  {
+    "name": "TCL 40-inch 4K QLED TV",
+    "brand": "TCL",
+    "category": "TVs & Monitors",
+    "price": 81919,
+    "rating": 4.4
+  },
+  {
+    "name": "Panasonic 34-inch 4K Android TV",
+    "brand": "Panasonic",
+    "category": "TVs & Monitors",
+    "price": 99179,
+    "rating": 4.9
+  },
+  {
+    "name": "Sony 56-inch 4K Android TV",
+    "brand": "Sony",
+    "category": "TVs & Monitors",
+    "price": 181755,
+    "rating": 4.5
+  },
+  {
+    "name": "Samsung 63-inch 4K Android TV",
+    "brand": "Samsung",
+    "category": "TVs & Monitors",
+    "price": 158727,
+    "rating": 4.6
+  },
+  {
+    "name": "LG 84-inch 4K QLED TV",
+    "brand": "LG",
+    "category": "TVs & Monitors",
+    "price": 190013,
+    "rating": 4.3
+  },
+  {
+    "name": "Xiaomi 58-inch 4K Android TV",
+    "brand": "Xiaomi",
+    "category": "TVs & Monitors",
+    "price": 130875,
+    "rating": 4.4
+  },
+  {
+    "name": "LG 32-inch 4K Android TV",
+    "brand": "LG",
+    "category": "TVs & Monitors",
+    "price": 200489,
+    "rating": 4.3
+  },
+  {
+    "name": "Hisense 66-inch 8K OLED TV",
+    "brand": "Hisense",
+    "category": "TVs & Monitors",
+    "price": 184476,
+    "rating": 5
+  },
+  {
+    "name": "LG 60-inch 4K Android TV",
+    "brand": "LG",
+    "category": "TVs & Monitors",
+    "price": 30873,
+    "rating": 4.7
+  },
+  {
+    "name": "Samsung 82-inch 4K QLED TV",
+    "brand": "Samsung",
+    "category": "TVs & Monitors",
+    "price": 222191,
+    "rating": 4.8
+  },
+  {
+    "name": "Hisense 60-inch Full HD Smart TV",
+    "brand": "Hisense",
+    "category": "TVs & Monitors",
+    "price": 16126,
+    "rating": 4.3
+  },
+  {
+    "name": "Xiaomi 54-inch 4K QLED TV",
+    "brand": "Xiaomi",
+    "category": "TVs & Monitors",
+    "price": 194911,
+    "rating": 4.7
+  },
+  {
+    "name": "Sony 78-inch 4K QLED TV",
+    "brand": "Sony",
+    "category": "TVs & Monitors",
+    "price": 239649,
+    "rating": 5
+  },
+  {
+    "name": "Hisense 78-inch Full HD Smart TV",
+    "brand": "Hisense",
+    "category": "TVs & Monitors",
+    "price": 125645,
+    "rating": 4.7
+  },
+  {
+    "name": "Samsung 68-inch Full HD Smart TV",
+    "brand": "Samsung",
+    "category": "TVs & Monitors",
+    "price": 204646,
+    "rating": 4.6
+  },
+  {
+    "name": "Vu 36-inch 4K Android TV",
+    "brand": "Vu",
+    "category": "TVs & Monitors",
+    "price": 136618,
+    "rating": 4.9
+  },
+  {
+    "name": "Samsung 38-inch 4K Android TV",
+    "brand": "Samsung",
+    "category": "TVs & Monitors",
+    "price": 218923,
+    "rating": 4.8
+  },
+  {
+    "name": "Samsung 66-inch 8K OLED TV",
+    "brand": "Samsung",
+    "category": "TVs & Monitors",
+    "price": 85334,
+    "rating": 4.1
+  },
+  {
+    "name": "Panasonic 67-inch Full HD Smart TV",
+    "brand": "Panasonic",
+    "category": "TVs & Monitors",
+    "price": 93327,
+    "rating": 4.8
+  },
+  {
+    "name": "Realme 47-inch 4K QLED TV",
+    "brand": "Realme",
+    "category": "TVs & Monitors",
+    "price": 142618,
+    "rating": 4
+  },
+  {
+    "name": "Sony 84-inch 4K Android TV",
+    "brand": "Sony",
+    "category": "TVs & Monitors",
+    "price": 88133,
+    "rating": 4.6
+  },
+  {
+    "name": "Samsung 67-inch Full HD Smart TV",
+    "brand": "Samsung",
+    "category": "TVs & Monitors",
+    "price": 68779,
+    "rating": 4.2
+  },
+  {
+    "name": "Samsung 60-inch 4K QLED TV",
+    "brand": "Samsung",
+    "category": "TVs & Monitors",
+    "price": 218050,
+    "rating": 4.1
+  },
+  {
+    "name": "Vu 74-inch 8K OLED TV",
+    "brand": "Vu",
+    "category": "TVs & Monitors",
+    "price": 178958,
+    "rating": 4.7
+  },
+  {
+    "name": "Fujifilm Lumix Action Camera",
+    "brand": "Fujifilm",
+    "category": "Cameras",
+    "price": 16459,
+    "rating": 4.3
+  },
+  {
+    "name": "Nikon Hero DSLR Camera",
+    "brand": "Nikon",
+    "category": "Cameras",
+    "price": 85371,
+    "rating": 4.8
+  },
+  {
+    "name": "Canon X-T Drone",
+    "brand": "Canon",
+    "category": "Cameras",
+    "price": 210431,
+    "rating": 4.8
+  },
+  {
+    "name": "Olympus Hero DSLR Camera",
+    "brand": "Olympus",
+    "category": "Cameras",
+    "price": 80460,
+    "rating": 4.4
+  },
+  {
+    "name": "Fujifilm Hero Mirrorless Camera",
+    "brand": "Fujifilm",
+    "category": "Cameras",
+    "price": 98819,
+    "rating": 4.3
+  },
+  {
+    "name": "Kodak X-T Mirrorless Camera",
+    "brand": "Kodak",
+    "category": "Cameras",
+    "price": 158448,
+    "rating": 4.7
+  },
+  {
+    "name": "Olympus Alpha DSLR Camera",
+    "brand": "Olympus",
+    "category": "Cameras",
+    "price": 36489,
+    "rating": 4.5
+  },
+  {
+    "name": "DJI X-T DSLR Camera",
+    "brand": "DJI",
+    "category": "Cameras",
+    "price": 19175,
+    "rating": 4.6
+  },
+  {
+    "name": "Fujifilm EOS Drone",
+    "brand": "Fujifilm",
+    "category": "Cameras",
+    "price": 164635,
+    "rating": 4.5
+  },
+  {
+    "name": "Olympus Lumix Action Camera",
+    "brand": "Olympus",
+    "category": "Cameras",
+    "price": 59841,
+    "rating": 4.4
+  },
+  {
+    "name": "GoPro Alpha Action Camera",
+    "brand": "GoPro",
+    "category": "Cameras",
+    "price": 102498,
+    "rating": 4.7
+  },
+  {
+    "name": "Nikon EOS Drone",
+    "brand": "Nikon",
+    "category": "Cameras",
+    "price": 177704,
+    "rating": 5
+  },
+  {
+    "name": "Fujifilm Lumix Mirrorless Camera",
+    "brand": "Fujifilm",
+    "category": "Cameras",
+    "price": 66139,
+    "rating": 4.8
+  },
+  {
+    "name": "Olympus Lumix Mirrorless Camera",
+    "brand": "Olympus",
+    "category": "Cameras",
+    "price": 55161,
+    "rating": 4.7
+  },
+  {
+    "name": "Kodak Z DSLR Camera",
+    "brand": "Kodak",
+    "category": "Cameras",
+    "price": 182798,
+    "rating": 4.5
+  },
+  {
+    "name": "ASUS ROG PlayStation 5 Digital Edition",
+    "brand": "ASUS ROG",
+    "category": "Gaming",
+    "price": 37287,
+    "rating": 4.7
+  },
+  {
+    "name": "Nintendo Gaming Keyboard",
+    "brand": "Nintendo",
+    "category": "Gaming",
+    "price": 6669,
+    "rating": 4.7
+  },
+  {
+    "name": "Nintendo Xbox Series X",
+    "brand": "Nintendo",
+    "category": "Gaming",
+    "price": 22541,
+    "rating": 4.4
+  },
+  {
+    "name": "Valve PlayStation 5 Standard Edition",
+    "brand": "Valve",
+    "category": "Gaming",
+    "price": 36267,
+    "rating": 4.2
+  },
+  {
+    "name": "Logitech Gaming Mouse",
+    "brand": "Logitech",
+    "category": "Gaming",
+    "price": 10497,
+    "rating": 4.2
+  },
+  {
+    "name": "Logitech Xbox Series S",
+    "brand": "Logitech",
+    "category": "Gaming",
+    "price": 41583,
+    "rating": 4.4
+  },
+  {
+    "name": "Corsair Gaming Monitor",
+    "brand": "Corsair",
+    "category": "Gaming",
+    "price": 10108,
+    "rating": 4.5
+  },
+  {
+    "name": "MSI Xbox Series X",
+    "brand": "MSI",
+    "category": "Gaming",
+    "price": 38478,
+    "rating": 4.8
+  },
+  {
+    "name": "Logitech Gaming Monitor",
+    "brand": "Logitech",
+    "category": "Gaming",
+    "price": 8321,
+    "rating": 4.2
+  },
+  {
+    "name": "Corsair Gaming Monitor",
+    "brand": "Corsair",
+    "category": "Gaming",
+    "price": 50485,
+    "rating": 4.5
+  },
+  {
+    "name": "ASUS ROG Gaming Mouse",
+    "brand": "ASUS ROG",
+    "category": "Gaming",
+    "price": 3087,
+    "rating": 4.8
+  },
+  {
+    "name": "Microsoft Gaming Monitor",
+    "brand": "Microsoft",
+    "category": "Gaming",
+    "price": 10442,
+    "rating": 4.7
+  },
+  {
+    "name": "Corsair Gaming Monitor",
+    "brand": "Corsair",
+    "category": "Gaming",
+    "price": 54039,
+    "rating": 4.2
+  },
+  {
+    "name": "Nintendo Gaming Keyboard",
+    "brand": "Nintendo",
+    "category": "Gaming",
+    "price": 53962,
+    "rating": 4.3
+  },
+  {
+    "name": "Sony Gaming Mouse",
+    "brand": "Sony",
+    "category": "Gaming",
+    "price": 52856,
+    "rating": 4.2
+  },
+  {
+    "name": "Valve Xbox Series X",
+    "brand": "Valve",
+    "category": "Gaming",
+    "price": 28759,
+    "rating": 4.4
+  },
+  {
+    "name": "ASUS ROG Xbox Series X",
+    "brand": "ASUS ROG",
+    "category": "Gaming",
+    "price": 7390,
+    "rating": 5
+  },
+  {
+    "name": "Nintendo Gaming Keyboard",
+    "brand": "Nintendo",
+    "category": "Gaming",
+    "price": 24629,
+    "rating": 4.1
+  },
+  {
+    "name": "Logitech Xbox Series X",
+    "brand": "Logitech",
+    "category": "Gaming",
+    "price": 53386,
+    "rating": 4.2
+  },
+  {
+    "name": "ASUS ROG Gaming Monitor",
+    "brand": "ASUS ROG",
+    "category": "Gaming",
+    "price": 13886,
+    "rating": 4.4
+  },
+  {
+    "name": "Boat 170 Memory Card",
+    "brand": "Boat",
+    "category": "Accessories",
+    "price": 9204,
+    "rating": 4.1
+  },
+  {
+    "name": "Samsung 47W Fast Charger",
+    "brand": "Samsung",
+    "category": "Accessories",
+    "price": 8536,
+    "rating": 4.4
+  },
+  {
+    "name": "Boat Leather Case",
+    "brand": "Boat",
+    "category": "Accessories",
+    "price": 2661,
+    "rating": 4.6
+  },
+  {
+    "name": "Boat 321 Memory Card",
+    "brand": "Boat",
+    "category": "Accessories",
+    "price": 3283,
+    "rating": 4.1
+  },
+  {
+    "name": "Ambrane 10105mAh Power Bank",
+    "brand": "Ambrane",
+    "category": "Accessories",
+    "price": 1271,
+    "rating": 4.2
+  },
+  {
+    "name": "Anker 224 Memory Card",
+    "brand": "Anker",
+    "category": "Accessories",
+    "price": 5103,
+    "rating": 3.9
+  },
+  {
+    "name": "Apple 27014mAh Power Bank",
+    "brand": "Apple",
+    "category": "Accessories",
+    "price": 2088,
+    "rating": 4.7
+  },
+  {
+    "name": "Samsung 73 Memory Card",
+    "brand": "Samsung",
+    "category": "Accessories",
+    "price": 3936,
+    "rating": 4.7
+  },
+  {
+    "name": "Portronics Clear Case",
+    "brand": "Portronics",
+    "category": "Accessories",
+    "price": 8153,
+    "rating": 4.6
+  },
+  {
+    "name": "Sony 126 Memory Card",
+    "brand": "Sony",
+    "category": "Accessories",
+    "price": 8339,
+    "rating": 5
+  },
+  {
+    "name": "Belkin 225 Memory Card",
+    "brand": "Belkin",
+    "category": "Accessories",
+    "price": 9233,
+    "rating": 4.2
+  },
+  {
+    "name": "Anker Silicone Case",
+    "brand": "Anker",
+    "category": "Accessories",
+    "price": 5415,
+    "rating": 4.7
+  },
+  {
+    "name": "Ambrane 38W Fast Charger",
+    "brand": "Ambrane",
+    "category": "Accessories",
+    "price": 3364,
+    "rating": 4.8
+  },
+  {
+    "name": "Anker 14796mAh Power Bank",
+    "brand": "Anker",
+    "category": "Accessories",
+    "price": 5367,
+    "rating": 5
+  },
+  {
+    "name": "Ambrane Silicone Case",
+    "brand": "Ambrane",
+    "category": "Accessories",
+    "price": 4858,
+    "rating": 4.4
+  },
+  {
+    "name": "Samsung 24W Fast Charger",
+    "brand": "Samsung",
+    "category": "Accessories",
+    "price": 2682,
+    "rating": 4.2
+  },
+  {
+    "name": "Sony 12310mAh Power Bank",
+    "brand": "Sony",
+    "category": "Accessories",
+    "price": 4944,
+    "rating": 4
+  },
+  {
+    "name": "Belkin Clear Case",
+    "brand": "Belkin",
+    "category": "Accessories",
+    "price": 6910,
+    "rating": 4.3
+  },
+  {
+    "name": "Sony 41W Fast Charger",
+    "brand": "Sony",
+    "category": "Accessories",
+    "price": 6242,
+    "rating": 3.8
+  },
+  {
+    "name": "Mi 267 Memory Card",
+    "brand": "Mi",
+    "category": "Accessories",
+    "price": 6248,
+    "rating": 4.6
+  },
+  {
+    "name": "Apple 380 Memory Card",
+    "brand": "Apple",
+    "category": "Accessories",
+    "price": 5013,
+    "rating": 4.1
+  },
+  {
+    "name": "Portronics 81W Fast Charger",
+    "brand": "Portronics",
+    "category": "Accessories",
+    "price": 9208,
+    "rating": 4.1
+  },
+  {
+    "name": "Croma 96 Memory Card",
+    "brand": "Croma",
+    "category": "Accessories",
+    "price": 2307,
+    "rating": 4.3
+  },
+  {
+    "name": "Mi 52W Fast Charger",
+    "brand": "Mi",
+    "category": "Accessories",
+    "price": 3371,
+    "rating": 4.2
+  },
+  {
+    "name": "Belkin 10594mAh Power Bank",
+    "brand": "Belkin",
+    "category": "Accessories",
+    "price": 3817,
+    "rating": 3.8
+  },
+  {
+    "name": "Havells Air Fryer",
+    "brand": "Havells",
+    "category": "Home Appliances",
+    "price": 12988,
+    "rating": 4.9
+  },
+  {
+    "name": "Prestige Vacuum Cleaner",
+    "brand": "Prestige",
+    "category": "Home Appliances",
+    "price": 57402,
+    "rating": 4.2
+  },
+  {
+    "name": "Kent Vacuum Cleaner",
+    "brand": "Kent",
+    "category": "Home Appliances",
+    "price": 2761,
+    "rating": 4.1
+  },
+  {
+    "name": "Butterfly Air Fryer",
+    "brand": "Butterfly",
+    "category": "Home Appliances",
+    "price": 15756,
+    "rating": 4.5
+  },
+  {
+    "name": "Prestige Air Purifier",
+    "brand": "Prestige",
+    "category": "Home Appliances",
+    "price": 61195,
+    "rating": 4.8
+  },
+  {
+    "name": "Morphy Richards Vacuum Cleaner",
+    "brand": "Morphy Richards",
+    "category": "Home Appliances",
+    "price": 43583,
+    "rating": 4.1
+  },
+  {
+    "name": "Eureka Forbes Air Fryer",
+    "brand": "Eureka Forbes",
+    "category": "Home Appliances",
+    "price": 44107,
+    "rating": 4.2
+  },
+  {
+    "name": "Kent Air Fryer",
+    "brand": "Kent",
+    "category": "Home Appliances",
+    "price": 12058,
+    "rating": 4.8
+  },
+  {
+    "name": "Havells Vacuum Cleaner",
+    "brand": "Havells",
+    "category": "Home Appliances",
+    "price": 61452,
+    "rating": 4.3
+  },
+  {
+    "name": "Bajaj Electric Kettle",
+    "brand": "Bajaj",
+    "category": "Home Appliances",
+    "price": 57410,
+    "rating": 4.5
+  },
+  {
+    "name": "Dyson Air Fryer",
+    "brand": "Dyson",
+    "category": "Home Appliances",
+    "price": 48014,
+    "rating": 4.4
+  },
+  {
+    "name": "Butterfly Air Purifier",
+    "brand": "Butterfly",
+    "category": "Home Appliances",
+    "price": 59471,
+    "rating": 4.6
+  },
+  {
+    "name": "Eureka Forbes Vacuum Cleaner",
+    "brand": "Eureka Forbes",
+    "category": "Home Appliances",
+    "price": 39743,
+    "rating": 4.3
+  },
+  {
+    "name": "Philips Electric Kettle",
+    "brand": "Philips",
+    "category": "Home Appliances",
+    "price": 48733,
+    "rating": 4.2
+  },
+  {
+    "name": "Kent Air Fryer",
+    "brand": "Kent",
+    "category": "Home Appliances",
+    "price": 48046,
+    "rating": 4.3
+  }
+]
