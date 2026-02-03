@@ -1,0 +1,89 @@
+.notification-container {
+  position: fixed;
+  top: 100px;
+  right: 24px;
+  z-index: 9999;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-width: 400px;
+}
+
+.notification {
+  background: white;
+  border-radius: var(--radius-lg);
+  padding: 16px 20px;
+  box-shadow: var(--shadow-xl);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  cursor: pointer;
+  transform: translateX(100%);
+  animation: slideInRight 0.3s ease forwards;
+  border-left: 4px solid;
+}
+
+.notification-success {
+  border-left-color: #38b2ac;
+}
+
+.notification-error {
+  border-left-color: #fc8181;
+}
+
+.notification-warning {
+  border-left-color: #f6ad55;
+}
+
+.notification-info {
+  border-left-color: #63b3ed;
+}
+
+.notification-content {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex: 1;
+}
+
+.notification-icon {
+  font-size: 20px;
+}
+
+.notification-message {
+  font-size: 14px;
+  color: var(--dark);
+}
+
+.notification-close {
+  background: none;
+  border: none;
+  font-size: 24px;
+  color: var(--gray);
+  cursor: pointer;
+  padding: 0;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: all var(--transition-fast);
+}
+
+.notification-close:hover {
+  background: var(--gray-light);
+  color: var(--dark);
+}
+
+@keyframes slideInRight {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
